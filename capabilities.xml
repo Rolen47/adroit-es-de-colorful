@@ -30,6 +30,10 @@
       <label>Grid Logos</label>
       <selectable>true</selectable>
    </variant>
+   <variant name="GridTitles">
+      <label>Grid Titles</label>
+      <selectable>true</selectable>
+   </variant>
    <variant name="List">
       <label>List</label>
       <selectable>true</selectable>

@@ -431,6 +431,14 @@ CC-BY-NC-SA
       </view>
    </variant> 
 
+   <variant name="GridTitles">
+      <view name="gamelist">
+        <grid name="gamelist-grid">
+           <imageType>titlescreen,cover,marquee</imageType> <!--Replace with marquee,cover,3dbox,physicalmedia,titlescreen,miximage,fanart,screenshot, or backcover-->
+           <!--<backgroundColor>${gray}</backgroundColor>-->
+        </grid> 
+      </view>
+   </variant> 
 
 <!--
    <variant name="LightGridMarquee">
